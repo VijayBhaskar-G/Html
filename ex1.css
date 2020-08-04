@@ -1,0 +1,22 @@
+body{
+
+  width 80%;
+  max-width: 700px;
+  border: 20px solid grey;
+  padding: 20px;
+  margin: 20px auto;
+}
+.date{
+    text-transform: uppercase;
+  color: #0040ff;
+  letter-spacing: 0.2rem;
+}
+.dont{
+  margin-left: 10px;
+  border-left: 2px solid grey;
+  padding-left: 10px;
+
+}
+h1{
+
+}
